@@ -1,0 +1,6 @@
+proxysql:
+  username: radmin   # proxyadmin
+  password: radmin   # admin_password
+  url: jdbc:mysql://127.0.0.1:6032/main       # jdbc:mysql://10.100.103.33:31581/main
+server:
+  port: 8080
